@@ -1,0 +1,13 @@
+.content-container{
+  margin-left: 250px;
+  margin-top: 70px;
+}
+
+@media only screen and (max-width: 600px) {
+  .content-container{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-top:50px;
+  }
+}
